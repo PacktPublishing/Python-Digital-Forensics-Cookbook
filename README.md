@@ -25,5 +25,3 @@ In order to follow along with and execute the recipes within this cookbook, use 
 
 * [Python: End-to-end Data Analysis](https://www.packtpub.com/big-data-and-business-intelligence/python-end-end-data-analysis?utm_source=github&utm_medium=repository&utm_campaign=9781788394697)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
